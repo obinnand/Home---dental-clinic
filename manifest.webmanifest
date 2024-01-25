@@ -1,0 +1,10 @@
+{
+  "icons": [
+    { "src": "img/icon03-free-img.png", 
+    "type": "image/png" , "sizes":
+    192x192 },
+    { "src": "img/icon03-free-img.png", 
+    "type": "image/png" , "sizes":
+    512x512 },
+]
+}
